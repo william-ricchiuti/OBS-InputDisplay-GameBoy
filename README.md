@@ -126,7 +126,7 @@ Use `?theme=` to the URL in your Browser Source settings:
 ## Credits
 
 - [Input Overlay plugin](https://github.com/univrsal/input-overlay) by univrsal
-- GB Input Display by [Will Ricchiuti](https://github.com/willytop8)
+- GB Input Display by [Will Ricchiuti](https://github.com/william-ricchiuti)
 
 ## License
 

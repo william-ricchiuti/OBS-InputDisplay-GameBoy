@@ -36,4 +36,4 @@
 
 ## Repo
 
-https://github.com/willytop8/OBS-InputDisplay-GameBoy
+https://github.com/william-ricchiuti/OBS-InputDisplay-GameBoy
